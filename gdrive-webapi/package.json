@@ -17,9 +17,11 @@
 		"jest": "27"
 	},
 	"dependencies": {
+		"busboy": "0.3.1",
 		"pino": "6.8",
 		"pino-pretty": "5.1",
 		"pretty-bytes": "5.6",
-		"socket.io": "4.1"
+		"socket.io": "4.1",
+		"form-data": "4.0"
 	}
 }
